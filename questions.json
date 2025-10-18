@@ -1,0 +1,12 @@
+[
+  {"question":"What does HTML stand for?","options":["Hyper Text Markup Language","High Text Machine Language","Hyperlinks and Text Markup Language","Home Tool Markup Language"],"answer":0},
+  {"question":"Which language is used for styling web pages?","options":["HTML","JQuery","CSS","XML"],"answer":2},
+  {"question":"Which is a JavaScript framework?","options":["React","Laravel","Django","Flask"],"answer":0},
+  {"question":"What is the default port of HTTP?","options":["80","21","443","8080"],"answer":0},
+  {"question":"Which company developed Java?","options":["Sun Microsystems","Microsoft","Google","Apple"],"answer":0},
+  {"question":"Inside which HTML element do we put the JavaScript?","options":["<script>","<js>","<javascript>","<scripting>"],"answer":0},
+  {"question":"Which symbol is used for comments in JavaScript?","options":["//","/* */","#","--"],"answer":0},
+  {"question":"Which CSS property changes text color?","options":["color","font-color","text-style","text-color"],"answer":0},
+  {"question":"Which HTML tag is used for inserting an image?","options":["<img>","<image>","<src>","<picture>"],"answer":0},
+  {"question":"What does SQL stand for?","options":["Structured Query Language","Strong Question Language","Structured Question Language","Simple Query Language"],"answer":0}
+]
